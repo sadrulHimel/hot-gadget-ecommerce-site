@@ -1,0 +1,81 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    padding-left: 25px;
+}
+.container{
+    margin-bottom: 80px;
+    border-radius: 20px;
+
+}
+.slider{
+    background-color: rgb(219, 241, 234);
+    box-shadow: 2px 2px 10px gray;
+    
+}
+
+.buy-now-btn{
+    color: white;
+    background-color: rgb(20, 35, 66);
+    border-radius: 20px;
+    border: none;
+    padding: 8px 20px;
+
+}
+
+
+
+#items{
+
+    
+ text-align: center;
+
+ border-radius: 20px;
+}
+
+.phone .row{
+    margin-top: 25px;
+}
+
+.item-header p{
+    color: rgb(15, 170, 155);
+}
+
+#items img{
+    margin-bottom: 20px;
+}
+
+
+
+.categories h2{
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    
+}
+
+.icon-images{
+ 
+    box-shadow: 1px 1px 10px gray;
+
+}
+
+
+
+#email{
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+    margin-top: 20px;
+    margin-bottom: 6px; 
+    background-color: rgb(219, 226, 224);   
+}
+
+.col-md-3 h4{
+    color: rgb(34, 12, 56);
+}
+
