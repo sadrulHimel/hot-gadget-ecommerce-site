@@ -1,7 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 1px;
-    padding: 1px;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+#navbar{
+    margin-top: 15px;
 }
 .row{
     padding-left: 25px;
@@ -67,16 +72,24 @@ body{
 
 
 #email{
-    border: none;
+    border: 1px solid rgb(219, 226, 224);
     border-radius: 20px;
     padding: 8px 0px;
+    margin-right: 10px;
     margin-top: 20px;
     margin-bottom: 6px; 
-    background-color: rgb(219, 226, 224);   
+    background-color: rgb(219, 226, 224); 
 }
+  
 
 .col-md-3 h4{
     color: rgb(34, 12, 56);
 }
+
+#copyright{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
 
 
